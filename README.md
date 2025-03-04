@@ -50,6 +50,6 @@ Customer churn, or attrition, is the loss of clients, which is a critical concer
 - Streamlit: stream.py
 
 ## Prediction Dashboard and Apps
-- Visit the dashboard here
-- Visit the app here
+- Visit the dashboard [here](https://public.tableau.com/app/profile/katriel.e2881/viz/CHURNINGVISUALIZATION/Story1)
+- Visit the app [here](https://churn-prediction-telco.streamlit.app/)
 
